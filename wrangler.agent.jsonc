@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "zolo-qloo-hackathon",
+  "main": "worker/agent.mjs",
+  "compatibility_date": "2024-12-01",
+  "ai": { "binding": "AI" },
+  "vars": { "BUILD_ID": "QLOO_AGENT_1" }
+}

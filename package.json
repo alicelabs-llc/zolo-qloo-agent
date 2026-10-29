@@ -1,0 +1,16 @@
+{
+  "name": "zolo-qloo-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node scripts/test_agent.mjs",
+    "dev": "wrangler dev --config wrangler.agent.jsonc",
+    "deploy": "wrangler deploy --config wrangler.agent.jsonc",
+    "build": "wrangler deploy --dry-run --config wrangler.agent.jsonc"
+  },
+  "devDependencies": {
+    "wrangler": "4.153.0"
+  }
+}
