@@ -25,4 +25,7 @@ Cultural affinity is evidence about audiences, not a prediction of personal beha
 Manual disambiguation, broader category evaluation, durable abuse protection and user-controlled preferences.
 
 Demo: https://zolo-qloo-hackathon.eddyflores100.workers.dev/taste
-Public repository: https://github.com/alicelabs-llc/zolo-qloo-agent No final submission has been recorded.
+Public repository: https://github.com/alicelabs-llc/zolo-qloo-agent
+Submitted and published: https://devpost.com/software/zolo-x-qloo-good-taste-travels
+
+The live interface now includes an illustrated Zolo agent, six working example prompts, a surprise prompt, animated request feedback, result cards and category follow-up buttons.
